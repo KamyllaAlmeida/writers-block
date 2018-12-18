@@ -1,4 +1,8 @@
 class PagesController < ApplicationController
-  def root
+  def index
+  end
+
+  def contact
+    puts "KKKKKKKKKKKKKK"
   end
 end
